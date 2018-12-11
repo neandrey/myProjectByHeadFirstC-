@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App1", "App1", "{2040C0EA-0F06-43AB-9DB8-8F2F82C10129}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "App1.Shared", "App1\App1.Shared\App1.Shared.shproj", "{661A38E7-2242-4978-A798-5A5169181168}"
 EndProject
